@@ -1,7 +1,7 @@
 raven-lua
 =========
 
-[![Build Status](https://travis-ci.org/cloudflare/raven-lua.svg?branch=master)](https://travis-ci.org/cloudflare/raven-lua)
+[![Build Status](https://travis-ci.org/danifbento/raven-lua.svg?branch=master)](https://travis-ci.org/danifbento/raven-lua)
 
 A small Lua interface to [Sentry](https://sentry.readthedocs.org/) that also
 has a helpful wrapper function `call()` that takes any arbitrary Lua function
